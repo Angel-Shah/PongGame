@@ -250,14 +250,14 @@ while True:
         paddle2.goto(460, -230)
 
     # checking for winner
-        if playerA == 11:
-            window.clear()
-            run("winnerA.py")
-            turtle.done()
+    if playerA == 11:
+        window.clear()
+        run("winnerA.py")
+        turtle.done()
 
-        if playerB == 11:
-            window.clear()
-            run("winnerB.py")
-            turtle.done()
+    if playerB == 11:
+        window.clear()
+        run("winnerB.py")
+        turtle.done()
 
 
