@@ -123,11 +123,10 @@ pen.write(" First to 11 points WINS!", align="center", font = ("Courier", 16, "b
 # creating functions for moving paddles
 
 
-def paddle1_up(x):
+def paddle1_up():
     y = paddle1.ycor()
     y += 25
     paddle1.sety(y)
-    return x + 25
 
 
 def paddle1_down():
