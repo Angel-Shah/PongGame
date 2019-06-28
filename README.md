@@ -17,7 +17,7 @@ Player B:
 - Increased speed of ball over time with a max limit to keep game playable in the event of a long game
 - Display of winner when a player reaches 11 points
 
-
+NOTE: For best experience, use application in fullscreen mode
 
 # **To run Pong Game on Windows OS:**
 1. Download the repository Zip file
@@ -25,12 +25,15 @@ Player B:
 3. Open the "Game" folder and open the .exe file named "pong.exe" to run the game
 
 NOTE: an error message may pop-up when opening and closing the "pong.exe" file, just click 'ok' and the program should still run smoothly
+NOTE: For best experience, use application in fullscreen mode
 
 # **To run Pong Game on other OS:**
 1. Download the latest version of Python from [Python.org](https://www.python.org/)
 2. Download a Python IDE such as Pycharm
 3. Download the Zip file from this repository and extract it
 4. Open the extracted folder in the Python IDE and run the "pong.py" file
+
+NOTE: For best experience, use application in fullscreen mode
 
 # Unit Testing
 
