@@ -35,6 +35,10 @@ NOTE: For best experience, use application in fullscreen mode
 
 NOTE: For best experience, use application in fullscreen mode
 
+Here is a GIF that shows a demo of the game:
+
+![](pongDemo.gif)
+
 # Unit Testing
 
 Python's in-built unit testing module was used by using "import unittest".
